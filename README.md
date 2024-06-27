@@ -1,3 +1,4 @@
+<p align="center"><a href="https://github.com/Maysker/Stage2024" target="_blank"><img src="https://raw.githubusercontent.com/Maysker/Stage2024/main/assets/logo.png" width="500" alt="Squad Scope Logo"></a></p>
 
 Stage2024 is a web-based internship management system designed to streamline the process of managing internship placements, courses, and student interactions for educational institutions. The system facilitates the management of user roles, session security, and data integrity while providing comprehensive administrative functionalities through a user-friendly interface.
 
